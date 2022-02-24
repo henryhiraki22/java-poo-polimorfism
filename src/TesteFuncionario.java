@@ -3,7 +3,7 @@ public class TesteFuncionario {
 
 	public static void main(String[] args) {
 		
-		Funcionario nico = new Funcionario();
+		Funcionario nico = new Gerente();
 		Gerente gerente = new Gerente();
 		
 		gerente.setNome("teste");
